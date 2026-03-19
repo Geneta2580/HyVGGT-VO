@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="asset/V101.gif" alt="EuRoC V101" width="30%" />
-  <img src="asset/kitti_10.gif" alt="KTITTI 10" width="30%" />
+  <img src="asset/V101.gif" alt="EuRoC V101" width="40%" />
+  <img src="asset/kitti_10.gif" alt="KTITTI 10" width="40%" />
 </p>
 
 ## 📰 Updates
