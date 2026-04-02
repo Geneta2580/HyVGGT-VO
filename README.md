@@ -1,14 +1,14 @@
 # <div align="center">HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models</div>
 
 <p align="center">
-  <a href="https://mac-vo.github.io"><img src="https://img.shields.io/badge/Homepage-4385f4?style=flat&logo=googlehome&logoColor=white"></a>
+  <a href="https://geneta2580.github.io/HyVGGT-VO.io"><img src="https://img.shields.io/badge/Homepage-4385f4?style=flat&logo=googlehome&logoColor=white"></a>
   <a href="https://arxiv.org/abs/2409.09479v2"><img src="https://img.shields.io/badge/arXiv-b31b1b?style=flat&logo=arxiv&logoColor=white"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
 
 <p align="center">
-  <img src="asset/V101.gif" alt="EuRoC V101" width="40%" />
-  <img src="asset/kitti_10.gif" alt="KTITTI 10" width="40%" />
+  <img src="asset/V101.gif" alt="EuRoC V101" width="45%" />
+  <img src="asset/kitti_10.gif" alt="KTITTI 10" width="45%" />
 </p>
 
 ## 📰 Updates
