@@ -1,4 +1,4 @@
-# <div align="center">HyVGGT-VO: Tightly-Coupled Hybrid Dense Visual Odometry with Feed-Forward Models</div>
+# <div align="center">HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models</div>
 
 <p align="center">
   <a href="https://mac-vo.github.io"><img src="https://img.shields.io/badge/Homepage-4385f4?style=flat&logo=googlehome&logoColor=white"></a>
@@ -12,7 +12,7 @@
 </p>
 
 ## 📰 Updates
-- **[2026-04-01]**: Our paper has been submitted to [arXiv](https://github.com/Geneta2580/gtsam.git).
+- **[2026-04-03]**: Our paper has been submitted to [arXiv](https://github.com/Geneta2580/gtsam.git).
 - **[????-??-??]**: The full project source code will be released after our paper is accepted. If you are interested, please star ⭐ this repo to stay tuned!
 
 ---
