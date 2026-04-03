@@ -12,7 +12,7 @@
 </p>
 
 ## 📰 Updates
-- **[2026-04-03]**: Our paper has been submitted to [arXiv](https://github.com/Geneta2580/gtsam.git).
+- **[2026-04-03]**: Our paper has been submitted to [arXiv](https://arxiv.org/abs/2604.02107).
 - **[????-??-??]**: The full project source code will be released after our paper is accepted. If you are interested, please star ⭐ this repo to stay tuned!
 
 ---
