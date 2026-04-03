@@ -127,9 +127,9 @@ If you find our work helpful for your research, please consider citing our paper
 
 ```bibtex
 @article{hyvggt_vo_2026,
-  title={HyVGGT-VO: Tightly-Coupled Hybrid Dense Visual Odometry with Feed-Forward Models},
-  author={Pang, Junxiang and [Other Authors...]},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+      title={HyVGGT-VO: Tightly Coupled Hybrid Dense Visual Odometry with Feed-Forward Models}, 
+      author={Junxiang Pang and Lipu Zhou and Baojie Chen},
+      journal={arXiv}
+      year={2026},
 }
 ```
