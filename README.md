@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://geneta2580.github.io/HyVGGT-VO.io"><img src="https://img.shields.io/badge/Homepage-4385f4?style=flat&logo=googlehome&logoColor=white"></a>
-  <a href="https://arxiv.org/abs/2409.09479v2"><img src="https://img.shields.io/badge/arXiv-b31b1b?style=flat&logo=arxiv&logoColor=white"></a>
+  <a href="https://arxiv.org/abs/2604.02107"><img src="https://img.shields.io/badge/arXiv-b31b1b?style=flat&logo=arxiv&logoColor=white"></a>
   <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
 </p>
 
